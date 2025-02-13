@@ -5,8 +5,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-    background-image: url('Background4.jpg');
-    background-size: cover;
+    
 }
 
 .book {
